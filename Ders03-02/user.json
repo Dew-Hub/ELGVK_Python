@@ -1,0 +1,12 @@
+{
+    "123456":{
+        "adsoyad":"Ali Tuna",
+        "sifre":"123",
+        "bakiye":5000
+    },
+    "55555":{
+        "adsoyad":"Burak Öntürk",
+        "sifre":"6462",
+        "bakiye":10000
+    }
+}
