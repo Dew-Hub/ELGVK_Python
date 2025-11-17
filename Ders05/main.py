@@ -2,7 +2,7 @@ import requests
 from pymongo import MongoClient
 import certifi
 
-mongourl = "mongodb+srv://burakonturkELG:hnAF2OFUUJGdrEHB@cluster0.j5vgdyh.mongodb.net/?appName=Cluster0"
+mongourl = "" #MongoDb url buraya gelecek
 
 dbName = "atmDB"
 
